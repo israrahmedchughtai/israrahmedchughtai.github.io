@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Israr&#39;s Website</title>
+    <link>http://example.israrahmed.com/post/</link>
+    <description>Recent content in Posts on Israr&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Jul 2021 14:53:41 +0500</lastBuildDate><atom:link href="http://example.israrahmed.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Me Second Page</title>
+      <link>http://example.israrahmed.com/post/me-second-page/</link>
+      <pubDate>Mon, 05 Jul 2021 14:53:41 +0500</pubDate>
+      
+      <guid>http://example.israrahmed.com/post/me-second-page/</guid>
+      <description>LOGO First we built the stack. It is useful because it return the data every time function completes and also returns the control. We reserved 16kb of memeory for the stack. ESP regster is used as stack pointer to give the address. To switch to 64 bit we used Long mode for which the code is written in the file.
+Then we checked for multiboot, cpu-id,long-mode and error code. Linking btw virtual and physical address helped us to remove the memory loset issue.</description>
+    </item>
+    
+    <item>
+      <title>My First Page</title>
+      <link>http://example.israrahmed.com/post/my-first-page/</link>
+      <pubDate>Mon, 05 Jul 2021 14:26:52 +0500</pubDate>
+      
+      <guid>http://example.israrahmed.com/post/my-first-page/</guid>
+      <description>OK n the src folder we contained our two files header.asm and main.asm. We used two label for start and end of header. Here we added magic number and length. We named it as section which helped us in the final stage of linking. We added two dw’s and dd at the end set to zero to show that we dont have any more data.
+Main.asm file is acting as a entry file with start as entry point.</description>
+    </item>
+    
+  </channel>
+</rss>
